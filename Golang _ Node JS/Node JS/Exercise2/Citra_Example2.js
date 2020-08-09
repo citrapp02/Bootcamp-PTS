@@ -1,0 +1,10 @@
+console.log("+------------------------+");
+console.log("|                        |");
+console.log("| Corner Store           |");
+console.log("| 2015-03-29  04:38 PM   |");
+console.log("|                        |");
+console.log("| Gallons: 10.870        |");
+console.log("| Price/gallon: $ 2.089  |");
+console.log("|                        |");
+console.log("| Fuel total: $ 22.71    |");
+console.log("+------------------------+");

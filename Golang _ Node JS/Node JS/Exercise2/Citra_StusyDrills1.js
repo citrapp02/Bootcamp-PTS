@@ -1,0 +1,10 @@
+console.log("+------------------------+");
+console.log("|                        |");
+console.log("| PERTAMINA              |");
+console.log("| 2020-07-24  2:28 PM    |");
+console.log("|                        |");
+console.log("| Gallons: 10            |");
+console.log("| Price/gallon: Rp 12.089|");
+console.log("|                        |");
+console.log("| Fuel total: Rp 120890  |");
+console.log("+------------------------+");
